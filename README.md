@@ -14,6 +14,8 @@
     * [PNETLAB Bare Metal](https://pnetlab.com/pages/documentationslug=install-bare-metal)
     * [ PNETLAB Imagem .ova](https://pnetlab.com/pages/download)
     * [Ubuntu 18.04.6 LTS Server .iso](https://releases.ubuntu.com/18.04/)
+    * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+    * [VMware](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
 ---
 
 ## :computer: Instalação do PNETLAB
