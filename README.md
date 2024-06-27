@@ -1,6 +1,8 @@
 ## :rocket: Semana do MikroTik - TechLabs
 :star_struck: Repositório de Instalação e Configuração.
 
+[Grupo Do WhatsApp Semana do MikroTik](https://academy.techlabs.net.br/course/grupo-whatsapp)
+
 ## :computer: Requisitos de Software
 
 *Instalação Será realizada no Proxmox - Mas pode ser instalado em um VMWARE ou VirtualBox usando seu PC Windows*
@@ -11,12 +13,18 @@
 ---
 
 * Links Para Download:
-    * [PNETLAB Bare Metal](https://pnetlab.com/pages/documentationslug=install-bare-metal)
-    * [ PNETLAB Imagem .ova](https://pnetlab.com/pages/download)
-    * [Ubuntu 18.04.6 LTS Server .iso](https://releases.ubuntu.com/18.04/)
-    * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+    * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) (Recomendado)
     * [VMware](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
+    * [Proxmox VE](https://www.proxmox.com/en/downloads/proxmox-virtual-environment)
+    * [Ubuntu 18.04.6 LTS Server .iso](https://releases.ubuntu.com/18.04/ubuntu-18.04.6-live-server-amd64.iso)
+    * [Ubuntu 22.04.4 LTS Server .iso](https://releases.ubuntu.com/jammy/ubuntu-22.04.4-live-server-amd64.iso)
+    * [PNETLAB Bare Metal](https://pnetlab.com/pages/documentationslug=install-bare-metal)
+    * [PNETLAB Imagem .ova](https://pnetlab.com/pages/download)
 ---
+
+## :computer: Instalação do PNETLAB e PHPIPAM
+
+[![Assista ao vídeo](https://img.youtube.com/vi/_kztuDH6xj0/0.jpg)](https://www.youtube.com/watch?v=_kztuDH6xj0)
 
 ## :computer: Instalação do PNETLAB
 
@@ -134,7 +142,11 @@ $db['pass'] = "techlabs";
 $db['name'] = "phpipam";
 ```
 
-* Acesso Padrão: 
+* Acesso Padrão caso falhe a Instalação: 
 ```
 admin / ipamadmin
 ```
+
+## :computer: Repositório Completo - Semana do MikroTik
+
+* [Google Drive](https://drive.google.com/drive/folders/1eAZyWBiSuX6CJuBf3fBO0_AUx3JD_LoU?usp=sharing)
